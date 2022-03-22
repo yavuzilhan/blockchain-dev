@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "course",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "showInfo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"01 - Variables.sol": "Variables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"01 - Variables.sol": {
+			"keccak256": "0x2bbbb9403991d3c79a7b99bdef822c224bb02b216f9138a5f03f84f2f0bad3fb",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://5e673521107a74a2835c0aed42587667d5a9e1a48e2778000968114356d16acb",
+				"dweb:/ipfs/QmZKcfRCvVYGfeeGrzHQNX7nEFwqkuQSaqwHFpq5xndM8n"
+			]
+		}
+	},
+	"version": 1
+}
