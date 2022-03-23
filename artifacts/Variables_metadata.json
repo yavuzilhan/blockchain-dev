@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"01 - Variables.sol": {
-			"keccak256": "0x2bbbb9403991d3c79a7b99bdef822c224bb02b216f9138a5f03f84f2f0bad3fb",
+			"keccak256": "0x07dc6ed3517f74c221fcc9e40fce21a7e93080e51805a6eb67b0d5d933bc22bf",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://5e673521107a74a2835c0aed42587667d5a9e1a48e2778000968114356d16acb",
-				"dweb:/ipfs/QmZKcfRCvVYGfeeGrzHQNX7nEFwqkuQSaqwHFpq5xndM8n"
+				"bzz-raw://71974cf817b66b7454373e35543e0c0691eebdc46c5cdf9879fa559fa28fe19a",
+				"dweb:/ipfs/QmTXSbPUCriz9BZTPRqS58fdM7SFdCfPyWxnmCy8sdWTGM"
 			]
 		}
 	},

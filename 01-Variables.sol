@@ -64,6 +64,7 @@ contract Variables{
     //Block and Transaction
     uint blockNumber = block.number;
     uint gasLimit = block.gaslimit;
+    uint timeStamp = block.timestamp;
     address sender = msg.sender;
     uint value = msg.value;
     uint gasPrice = tx.gasprice;
